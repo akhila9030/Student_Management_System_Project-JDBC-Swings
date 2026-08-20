@@ -57,7 +57,7 @@ The student table contains details such as:
 
 ### Student Management System
  
-![Student Management System](StudentManagementSystemOutputScreen.png)
+![Student Management System](StudentManagementSystemProject/StudentManagementSystemOutputScreen.png)
 
 ## Learning Outcomes
 
